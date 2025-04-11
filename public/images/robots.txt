@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ruslacinka.vercel.app/sitemap.xml
